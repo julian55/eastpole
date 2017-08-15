@@ -1,1 +1,2 @@
-#code name : east pole 
+# nick name : east pole 
+# info : Java playground 
